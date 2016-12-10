@@ -1,0 +1,40 @@
+ul,span{list-style: none;}
+
+div {
+	float: left;
+	border: 2px solid #000000;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	background-color: #fff;
+}
+.one{
+	width: 1300px;
+	height: 380px;
+	margin: 4% auto;
+}
+.two{
+	width: 584px;
+	height: 334px;
+	margin: auto;
+}
+.three{
+	width: 226px;
+	height: 240px;
+	margin: auto;
+}
+.four{
+	width: 60px;
+	height: 140px;
+	margin: auto;
+}
+.button{
+	width: 300px;
+	height: 40px;
+	margin: 0 500px ;
+	border: 0;
+}
+input{
+	margin-left: 20px;
+}
